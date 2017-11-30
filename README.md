@@ -25,4 +25,5 @@
     ```
     this.localStorageHandler.die()
     ```
+sessionStorage可以类似处理
 
