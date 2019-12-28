@@ -1,0 +1,22 @@
+{
+  "name": "localstoragehandler",
+  "version": "0.1.0",
+  "description": "localstorage操作类",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanz520/localStorageHandler.git"
+  },
+  "author": "hanz520",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanz520/localStorageHandler/issues"
+  },
+  "homepage": "https://github.com/hanz520/localStorageHandler#readme",
+  "keywords": [
+    "localStorage"
+  ]
+}
